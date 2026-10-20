@@ -2,6 +2,10 @@
 
 Website luyện Listening giữa kỳ bằng tiếng Việt, chạy hoàn toàn phía trình duyệt. Đã kèm **4 đề mới, 80 câu, 8 file MP3 riêng**; không cần API key, tài khoản hay backend.
 
+**Website:** https://nguynphuc.github.io/practise_listening/
+
+**Mã nguồn:** https://github.com/nguynphuc/practise_listening
+
 ## Mở để kiểm tra
 
 Mở trực tiếp `index.html` bằng Edge hoặc Chrome. Để kiểm tra giống khi lên mạng, mở terminal trong thư mục này và chạy:
@@ -50,7 +54,7 @@ Website phù hợp **tự luyện**, không phù hợp thi bảo mật: do chạ
 2. Vào **Settings → Pages → Deploy from a branch**, chọn branch và thư mục root.
 3. Dùng đường dẫn Pages được GitHub cung cấp. Các đường dẫn tài nguyên đều tương đối nên dùng được trong project Pages.
 
-Hiện chỉ tạo bản cục bộ; chưa tạo repository hay công bố website. Quy trình Pages có thể thay đổi; xem [tài liệu GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
+Repository hiện đã có trên GitHub và dùng GitHub Pages từ branch `main`, thư mục root. Sau khi sửa nội dung, commit và push lên `main` để cập nhật website. Quy trình Pages có thể thay đổi; xem [tài liệu GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
 ## Chỉnh đề và tạo lại audio
 
