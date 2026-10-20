@@ -1,0 +1,4 @@
+node_modules/
+__pycache__/
+*.tmp.mp3
+test-results/

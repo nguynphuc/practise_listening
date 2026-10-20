@@ -1,0 +1,7 @@
+{
+  "name": "listening-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static midterm listening practice with original audio",
+  "scripts": {"test": "node --test tests/grading.test.cjs", "start": "python -m http.server 8080 --bind 127.0.0.1"}
+}
